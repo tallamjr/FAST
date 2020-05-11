@@ -1,6 +1,5 @@
 PyWavelets
 obspy
-numpy
 scipy
 scikit-image
 sklearn
